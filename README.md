@@ -22,11 +22,11 @@ The workflow combines asset-level information on commissioning, retirement, oper
 
 | Notebook | Analysis |
 |---|---|
-| `main-figure-1.ipynb` | Kaplan-Meier survival analysis of retired electricity-generation assets |
-| `main-figure-2.ipynb` | Age structure and survival characteristics of the operating fleet |
-| `main-figure-3.ipynb` | Comparison of retired lifespans, active-fleet ages, and technical lifespan ranges |
-| `main-figure-4.ipynb` | Manufacturing and fuel-related carbon intensity, including the electricity generation required for manufacturing emissions to fall below a specified intensity threshold |
-| `main-figure-5.ipynb` | Cumulative replacement-capacity requirements for coal, natural gas, and nuclear reference cases |
+| `Old/main-figure-1.ipynb` | Kaplan-Meier survival analysis of retired electricity-generation assets |
+| `Old/main-figure-2.ipynb` | Age structure and survival characteristics of the operating fleet |
+| `Old/main-figure-3.ipynb` | Comparison of retired lifespans, active-fleet ages, and technical lifespan ranges |
+| `Old/main-figure-4.ipynb` | Manufacturing and fuel-related carbon intensity, including the electricity generation required for manufacturing emissions to fall below a specified intensity threshold |
+| `Old/main-figure-5.ipynb` | Cumulative replacement-capacity requirements for coal, natural gas, and nuclear reference cases |
 
 ## Supplementary analyses
 
@@ -34,9 +34,9 @@ The workflow combines asset-level information on commissioning, retirement, oper
 |---|---|
 | `si-figure-1.ipynb` | Global installed generation capacity in 2025 and illustrative 2050 capacity levels |
 | `si-figure-2.ipynb` | Comparison of reconstructed installed capacity with reference capacity data and the corresponding percentage differences |
-| `si-figure-4-5.ipynb` | Annual commissioned and retired capacity, and deployment/retirement patterns by technology |
-| `si-figure-6.ipynb` | Kaplan-Meier survival curves for the complete analysis dataset |
-| `si-figure-7.ipynb` | Material intensity by generation technology and material group |
+| `Old/si-figure-4-5.ipynb` | Annual commissioned and retired capacity, and deployment/retirement patterns by technology |
+| `Old/si-figure-6.ipynb` | Kaplan-Meier survival curves for the complete analysis dataset |
+| `si-figure-8.ipynb` | Material intensity by generation technology and material group |
 | `si-figure-8.ipynb` | Manufacturing-related carbon intensity by generation technology and material group |
 
 ## Data
