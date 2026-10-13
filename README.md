@@ -1,5 +1,5 @@
 # survival-curves-infrastructure
-> **Manuscript:** This repository contains the data and analysis code associated with the manuscript **“X”**, published in **XX**. DOI: **[DOI]**.
+> **Manuscript:** This repository contains the data and analysis code associated with the manuscript **“Realised energy asset lifetimes reshape infrastructure turnover in the net zero transition”**, published in **XX**. DOI: **[DOI]**.
 
 This repository contains the data-processing, survival-analysis, carbon-intensity, and infrastructure-replacement calculations used to examine the realised operational lifetimes of electricity-generation assets.
 
