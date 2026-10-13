@@ -3,7 +3,7 @@
 
 This repository contains the data-processing, survival-analysis, carbon-intensity, and infrastructure-replacement calculations used to examine the realised operational lifetimes of electricity-generation assets.
 
-The analysis covers 11 generation technologies:
+The analysis covers 10 generation technologies:
 - Bioenergy
 - Coal
 - Geothermal
@@ -12,7 +12,6 @@ The analysis covers 11 generation technologies:
 - Nuclear
 - Oil
 - Solar PV
-- Solar thermal
 - Offshore wind
 - Onshore wind
 
